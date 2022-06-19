@@ -1,0 +1,21 @@
+.cat_div {
+  margin-top: 30px;
+}
+.cat_div .cat_h2 {
+  margin: 0px 10px;
+  font-size:15px,
+  
+}
+.cat_div .view_all {
+  font-size: 16px;
+  color: red;
+}
+.cat_slide {
+  border-top: 1px solid #f0f0f0;
+  margin-top: 10px;
+  padding: 10px 0px;
+}
+.category_slider .slick-next:before,
+.category_slider .slick-prev:before {
+  color: black;
+}

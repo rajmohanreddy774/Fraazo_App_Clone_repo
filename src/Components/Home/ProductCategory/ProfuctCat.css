@@ -1,0 +1,16 @@
+.product_cat {
+  margin: 15px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.product_types-img {
+  cursor: pointer;
+  width: 300px;
+
+}
+.productcat {
+  width: 100%;
+}

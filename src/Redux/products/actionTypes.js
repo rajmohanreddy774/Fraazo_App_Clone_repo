@@ -1,0 +1,5 @@
+export const PRODUCT_LOADING = "PRODUCT_LOADING";
+
+export const PRODUCT_ERROR = "PRODUCT_ERROR";
+
+export const ADD_ALL_PRODUCTS = "ADD_ALL_PRODUCTS";
